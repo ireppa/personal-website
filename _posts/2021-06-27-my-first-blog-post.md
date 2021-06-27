@@ -9,6 +9,6 @@ This is the content.
 
 ## This is a sub-heading
 
-```bash
-> sudo apt update
-```
+This is how we do a link. First, we specify the text that will be display in square brackets [], and after the square brackets, we will put the URL it is linking to in paranthesis. So here is an example of a link:
+
+[Go to Google](https://google.com)
